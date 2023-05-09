@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img src="https://img.shields.io/badge/Anaconda%23-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 </p>
 
 <p align="center" display="inline-block">
@@ -54,7 +54,7 @@
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
 </p>
 
 <br>
