@@ -4,10 +4,9 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-    notion link :  <a href="https://swift-steam-7a2.notion.site/c3c3342ea5e343b1a3553586624a30ed" target="_blank"><img src="https://
-    img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    notion link :  <a href="https://swift-steam-7a2.notion.site/c3c3342ea5e343b1a3553586624a30ed" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJMyoung98%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdenny0211%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>denny021165@gmail.com<br>
 
